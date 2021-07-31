@@ -1,0 +1,15 @@
+{
+  "name": "upload-shell",
+  "version": "1.0.0",
+  "description": "自动上传服务器 nodejs 脚本",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "qianlong",
+  "license": "ISC"
+}
